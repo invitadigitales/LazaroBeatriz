@@ -6606,9 +6606,7 @@ fieldset:disabled .btn {
 .ratio-4x3 {
   --si-aspect-ratio: 75%;
 }
-.ratio-16x9 {
-  --si-aspect-ratio: 56.25%;
-}
+
 .ratio-21x9 {
   --si-aspect-ratio: 42.8571428571%;
 }
